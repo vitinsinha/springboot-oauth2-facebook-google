@@ -1,0 +1,1 @@
+This is a very basic Spring Boot application for understanding OAuth 2.0 Authorization, with Facebook and Google.
